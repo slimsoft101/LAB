@@ -1,0 +1,158 @@
+.container{
+	padding-left: 30px;
+	padding-top: 30px;
+	padding-bottom: 28px;
+}
+
+.display-inline-block{
+	display: inline-block;
+}
+.logo{
+	width: 100px;
+	vertical-align: middle;
+
+}
+.navigation{
+	vertical-align: middle;
+	padding-left: 50px;
+}
+.navigation-li{
+	padding-right: 22px;
+	font-size: 22px;
+	font-family: BPG Nino Mtavruli Bold;
+}
+.navigation-a{
+	color: #3D58A6;
+}
+.active{
+	color: #EE4036;
+}
+
+.banner-img{
+	padding-top: 82px;
+	padding-left: 68px;
+}
+
+
+a{
+text-decoration: none;
+}
+
+.box-header{
+	margin-left: 68px;
+	margin-top: 102px;
+	margin-bottom: 33px;
+	font-size: 24px;
+	font-family: 'Roboto', sans-serif;
+}
+
+.text-container{
+	padding-left: 68px;
+}
+.box{
+	background-color: #F2F2F2;
+	width:570px;
+	margin-right:30px;
+	padding: 15px 15px 30px 15px;
+}
+
+.box-header2{
+	font-size: 22px;
+	margin-bottom: 12px;
+	font-family: 'Roboto', sans-serif;
+	color: #3D58A6;
+}
+
+.image{
+	height: 132px;
+}
+.text-after-image{
+	width:345px;
+	vertical-align: top;
+	font-size: 20px;
+	margin-left: 34px;
+	font-family: 'Roboto', sans-serif;
+}
+.number{
+	color: #FFFFFF;
+	background-color: #3D58A6;
+	font-size: 48px;
+	margin-top: 44px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 6px;
+	padding-right: 6px;
+
+}
+.text-under-number{
+	font-size: 22px;
+	color: #3D58A6;
+	font-family: BPG Nino Mtavruli;
+	margin-top: 7px;
+
+}
+
+.post-header{
+	font-size: 20pt;
+	margin-top: 31px;
+	margin-bottom: 23px;
+	font-family: BPG Nino Mtavruli;
+}
+.post-img{
+	width: 270px; 
+	padding-top: 23px;
+
+}
+
+.post-text{
+	width: 929px;
+	vertical-align: top;
+	margin-top: 23px;
+	margin-left: 39px;
+	font-size: 16px;
+	font-family: BPG Ingiri Arial;
+
+}
+.social{
+	margin-left: 68px;
+}
+
+.divider{
+	background-color: #3D58A6;
+	height: 30px;
+	width: 2px;
+	margin-left: 28px;
+	margin-right: 28px;
+}
+
+.contact{
+	background-color: #E6E6E6;
+	margin-bottom: 27px;
+
+}
+.contact-info{
+	padding-top: 49px;
+	margin-left: 65px;
+}
+
+.map{
+	padding-top: 49px;
+	vertical-align: top;
+	margin-left: 54px;
+	padding-bottom: 55px;
+}
+.contact-info-header{
+	font-size: 20px;
+	font-family: BPG Nino Mtavruli Bold;
+	color: #3D58A6;
+}
+.contact-name{
+	font-size: 16px;
+	font-family: BPG Ingiri Arial;
+	color: #808080;
+}
+.contact-value{
+	font-size: 16px;
+	font-family: BPG Ingiri Arial;
+	color: black;
+}
